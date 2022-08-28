@@ -1,0 +1,7 @@
+mysite/__pycache__
+htmlcov
+.coverage
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode
